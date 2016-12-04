@@ -1,12 +1,12 @@
 {
  "name": "Processing & p5.js",
  "children": [
+
     
-    {"name": "Interactivity",
+    
+    {"name": "www",
     "children": [
-      {"name": "webdesign"},
-      {"name": "exhibitions"},
-      {"name": "theatre"}
+      {"name": "websites"}
     ]},
     {"name": "3D",
     "children": [
