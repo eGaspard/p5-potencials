@@ -65,7 +65,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("/mindmaps/generative-design/data.json", function(error, data) {
+d3.json("data.json", function(error, data) {
   if (error) throw error;
 
   root = data;
