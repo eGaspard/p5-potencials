@@ -1,0 +1,27 @@
+{
+ "name": "Processing & p5.js",
+ "children": [
+    
+    {"name": "Interactivity",
+    "children": [
+      {"name": "webdesign"},
+      {"name": "exhibitions"},
+      {"name": "theatre"}
+    ]},
+    {"name": "3D",
+    "children": [
+    {"name": "jewellery"}
+  ]},
+    
+    {"name": "Graphic Design",
+      "children": [
+        {"name": "Dynamic Identities"},
+        {"name": "Data visualization"}
+      ]
+    },
+    {"name": "Motion Design",
+      "children": [
+        {"name": "particle systems"}
+      ]
+  }
+]}
