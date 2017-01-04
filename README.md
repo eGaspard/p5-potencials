@@ -1,5 +1,6 @@
 # p5-potencials
-A d3.js-treemap visualizing the potencials of processing and p5.js
+
+A diagram visualizing the potencials of processing and p5.js
 
 On December 4th 2016 i've wrote this post to several facebook-groups related to creative coding with p5.js and Processing:
 
@@ -10,3 +11,12 @@ This year was full of programming questions, answers, making some generative ani
 Let me try to formulate a question: "What can we make with Processing and p5.js?"
 
 This is, what this diagram is about. 
+
+---
+
+### A first sketch
+
+Input -> Processing -> Output
+
+![](sketch.JPG)
+
